@@ -62,7 +62,6 @@ show_clusters.show_clusters(processed_data, labels, centers)
 
 ```
 
-
 ## Documentation
 
 The official documentation is hosted on Read the Docs: https://kmeaningful.readthedocs.io/en/latest/
